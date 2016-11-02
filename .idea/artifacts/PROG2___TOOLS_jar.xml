@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PROG2 - TOOLS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PROG2___TOOLS_jar</output-path>
+    <root id="archive" name="PROG2 - TOOLS.jar">
+      <element id="module-output" name="PROG2 - TOOLS" />
+    </root>
+  </artifact>
+</component>
